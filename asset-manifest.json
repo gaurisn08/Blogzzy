@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gaurisn08/Blogzzy.git/static/css/main.9284e98a.css",
+    "main.js": "/gaurisn08/Blogzzy.git/static/js/main.a8106991.js",
+    "static/js/787.05671433.chunk.js": "/gaurisn08/Blogzzy.git/static/js/787.05671433.chunk.js",
+    "static/media/Blogzzy.png": "/gaurisn08/Blogzzy.git/static/media/Blogzzy.77e33c40fe56031886a1.png",
+    "index.html": "/gaurisn08/Blogzzy.git/index.html",
+    "main.9284e98a.css.map": "/gaurisn08/Blogzzy.git/static/css/main.9284e98a.css.map",
+    "main.a8106991.js.map": "/gaurisn08/Blogzzy.git/static/js/main.a8106991.js.map",
+    "787.05671433.chunk.js.map": "/gaurisn08/Blogzzy.git/static/js/787.05671433.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9284e98a.css",
+    "static/js/main.a8106991.js"
+  ]
+}
